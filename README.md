@@ -1,3 +1,7 @@
+HERE’S THE LINK FOR BROWSER
+https://theeasytousecounter.netlify.app/
+
+
 # coe9f4ce18dc20e9af349fc57
 
 Quick start:
@@ -19,3 +23,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+Note: This is my first project, and I apologize for any bugs or problems
